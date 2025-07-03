@@ -1,5 +1,5 @@
 # AK-47
-Hypixel Skyblock - AK47
+Hypixel Skyblock - AK47 (AUTO ROUTES & P3 CFG INCLUDED)
 
 # Feature List
 
